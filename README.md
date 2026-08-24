@@ -10,7 +10,7 @@ To identify different customer segments based on their characteristics
 and purchasing behavior.
 
 ## Dataset
-Customer Personality Analysis involves a thorough examination of a company's optimal customer profiles. This analysis facilitates a deeper understanding of customers, enabling businesses to tailor products to meet the distinct needs, behaviors, and concerns of various customer types.This dataset has 29 features and 2240 records.
+Customer Personality Analysis involves a thorough examination of a company's optimal customer profiles. This analysis facilitates a deeper understanding of customers, enabling businesses to tailor products to meet the distinct needs, behaviors, and concerns of various customer types. This dataset has 29 features and 2240 records. The features include Id, Birth Year, Education, Marital Status along with purchasing behaviors. It also includes spending across different product categories such as wines, fruits, meat, fish, sweets, and gold products.
 
 ## Tools & Technologies
 - Python
